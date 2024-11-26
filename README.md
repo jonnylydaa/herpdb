@@ -1,0 +1,2 @@
+# herpdb
+Herpesvirus database installer
